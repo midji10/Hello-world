@@ -1,2 +1,7 @@
 # Hello-world
-Just another repository
+
+Bonjour Humains, 
+
+Juste un petit message pour tester le read me.
+
+Peace! 
